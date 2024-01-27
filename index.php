@@ -1,4 +1,6 @@
-<?php include("includes/header.php") ?>
+<?php
+$title = "Jahongir Premium hotel located 5 min from wordl famous Registan square in Samarkand";
+include("includes/header.php") ?>
         
         <!-- BANNER SLIDER -->
         <section class="section-slider">

@@ -1,4 +1,6 @@
-<?php include("includes/header.php") ?>
+<?php
+$title = "What our guests say about Jahongir Premium hotel";
+include("includes/header.php") ?>
         
         <!-- SUB BANNER -->
         <section class="section-sub-banner bg-15">
