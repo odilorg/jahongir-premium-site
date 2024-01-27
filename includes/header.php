@@ -57,8 +57,8 @@
             <div class="header_top">
                 <div class="container">
                     <div class="header_left float-left">
-                        <span><i class="lotus-icon-cloud"></i> 18 °C</span>
-                        <span><i class="lotus-icon-location"></i> 4 Chrokchi Street, Samarkand, Uzbekistan</span>
+                        
+                        <span><i class="lotus-icon-location"></i>Chrokchi Street 11, Samarkand, Uzbekistan</span>
                         <span><i class="lotus-icon-phone"></i> 998 91 313 6995</span>
                     </div>
                     <div class="header_right float-right">

@@ -51,8 +51,9 @@
                                         <a href="index.php"><img src="images/logo-footer.png" alt=""></a>
                                     </div>
                                     <div class="text">
-                                        <p><i class="lotus-icon-location"></i> 4 Chirokchi Street, Samarkand, Uzbekistan</p>
+                                        <p><i class="lotus-icon-location"></i> Chirokchi Street 11, Samarkand, Uzbekistan</p>
                                         <p><i class="lotus-icon-phone"></i> 998 91 313 69 95</p>
+                                        <p><i class="lotus-icon-phone"></i> 998 91 555 08 08</p>
                                         <p><i class="fa fa-envelope-o"></i> <a href="https://landing.engotheme.com/cdn-cgi/l/email-protection#aec6cbc2c2c1eedac6cbc2c1dadbddc6c1dacbc280cdc1c3"><span class="__cf_email__" data-cfemail="c0a8a5acacaf80b4a8a5acafb4b5b3a8afb4a5aceea3afad">[email&#160;protected]</span></a></p>
                                     </div>
                                 </div>

@@ -57,9 +57,9 @@ include("includes/header.php") ?>
                         <div class="col-lg-3">
                             <h2>CHECK AVAILABILITY</h2>
                         </div>
-                        <div class="col-lg-9">
+                        <div class="col-lg-2">
                             <!-- Place this div on your page where you want the widget to show -->
-<div id='bookWidget-22885-172793-0-1684931449'> </div>
+                           <a href="https://beds24.com/book-jahongirpremium"><button class="awe-btn awe-btn-13">FIND THE BEST RATE</button></a>  </div>
                         </div>
                     </div>
                 </div>
