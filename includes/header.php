@@ -95,9 +95,7 @@
                             } ?> >
                                 <a href="index.php">Home </span></a>
                             </li>
-                            <li <?php $url1 = strtok($url, '.');  if (trim($url1) == "about") {
-                                echo "class='current-menu-item'";
-                            } ?> >
+                           
                                 <a href="about.php">About </span></a>
                             </li>
                             <li <?php $url1 = strtok($url, '.');  if (trim($url1) == "rooms") {

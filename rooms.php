@@ -9,7 +9,7 @@ include("includes/header.php") ?>
                 <div class="container">
                     <div class="text text-center">
                         <h2>ROOMS &amp; RATES</h2>
-                        <p>Lorem Ipsum is simply dummy text</p>
+                        <p>Discover Your Perfect Retreat: Explore Our Rooms and Rates</p>
                     </div>
                 </div>
             </div>
@@ -33,13 +33,14 @@ include("includes/header.php") ?>
 
                                 <div class="room_item-forward">
                                     <h2><a href="#">STANDARD Double/Twin</a></h2>
-                                    <span class="price">Start form $120 per day</span>
+                                   
                                 </div>
 
                                 <div class="room_item-back">
-                                    <h3>STANDARD ROOM</h3>
-                                    <span class="price">Start form $120 per day</span>
-                                    <p>Lorem Ipsum is simply dummy text of the <b>printing</b> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+                                    <h3>STANDARD Double/Twin</h3>
+                                    
+                                    <p>
+Our Standard Double/Twin rooms offer bright spaces with convenient lighting, fast in-room WiFi, and a large TV. Enjoy coffee/tea amenities, a spacious wardrobe, safe, and fridge. Relax with garden views from the window and refresh in the modern bathroom with shower and toiletries.</p>
                                     <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
@@ -56,14 +57,14 @@ include("includes/header.php") ?>
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="#">FAMILY ROOM</a></h2>
-                                    <span class="price">Start form $120 per day</span>
+                                    <h2><a href="#">Deluxe FAMILY ROOM</a></h2>
+                                    
                                 </div>
 
                                 <div class="room_item-back">
-                                    <h3>FAMILY ROOM</h3>
-                                    <span class="price">Start form $120 per day</span>
-                                    <p>Lorem Ipsum is simply dummy text of the <b>printing</b> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+                                    <h3>Deluxe FAMILY ROOM</h3>
+                                    
+                                    <p>Indulge in our Deluxe Family Room, featuring a spacious layout with one large bed and one single bed. Enjoy ample lighting, fast WiFi, a large TV, coffee/tea facilities, a wardrobe, safe, fridge, and a garden-view window. Refresh in the modern bathroom with shower and toiletries.</p>
                                     <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
@@ -82,14 +83,14 @@ include("includes/header.php") ?>
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="#">COUPLE ROOM</a></h2>
-                                    <span class="price">Start form $120 per day</span>
+                                    <h2><a href="#">Superior double/twin</a></h2>
+                                   
                                 </div>
 
                                 <div class="room_item-back">
-                                    <h3>COUPLE ROOM</h3>
-                                    <span class="price">Start form $120 per day</span>
-                                    <p>Lorem Ipsum is simply dummy text of the <b>printing</b> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+                                    <h3>Superior double/twin</h3>
+                                   
+                                    <p>Experience comfort in our Superior Double/Twin rooms, featuring a large double bed, fast in-room WiFi, and a spacious wardrobe. Enjoy entertainment on the large TV and indulge in coffee/tea amenities. Take in garden views from the window and rejuvenate in the modern bathroom with shower and complimentary toiletries.</p>
                                     <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
@@ -106,14 +107,14 @@ include("includes/header.php") ?>
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="#">STANDARD ROOM</a></h2>
-                                    <span class="price">Start form $120 per day</span>
+                                    <h2><a href="#">Deluxe single ROOM</a></h2>
+                                   
                                 </div>
 
                                 <div class="room_item-back">
-                                    <h3>STANDARD ROOM</h3>
-                                    <span class="price">Start form $120 per day</span>
-                                    <p>Lorem Ipsum is simply dummy text of the <b>printing</b> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+                                    <h3>Deluxe single ROOM</h3>
+                                   
+                                    <p>Experience comfort and convenience in our Deluxe Single Room. Enjoy a bright and cozy atmosphere, fast WiFi, and a large TV. Indulge in coffee/tea amenities, ample storage in a big wardrobe, and the security of a safe. Relax with garden views from the window and refresh in the modern bathroom with shower and toiletries.</p>
                                     <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
@@ -130,14 +131,15 @@ include("includes/header.php") ?>
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="#">STANDARD ROOM</a></h2>
-                                    <span class="price">Start form $120 per day</span>
+                                    <h2><a href="#">STANDARD queen room</a></h2>
+                                    
                                 </div>
 
                                 <div class="room_item-back">
-                                    <h3>STANDARD ROOM</h3>
-                                    <span class="price">Start form $120 per day</span>
-                                    <p>Lorem Ipsum is simply dummy text of the <b>printing</b> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+                                    <h3>STANDARD queen room</h3>
+                                    
+                                    <p>
+Unwind in our Standard Queen Room, featuring a bright and cozy atmosphere. Enjoy fast in-room WiFi and entertainment on a big TV. Take advantage of coffee/tea amenities, ample storage in a big wardrobe, and the security of a safe. Relax with garden views from the window and rejuvenate in the modern bathroom with shower and toiletries.</p>
                                     <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
@@ -154,14 +156,14 @@ include("includes/header.php") ?>
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="#">FAMILY ROOM</a></h2>
-                                    <span class="price">Start form $120 per day</span>
+                                    <h2><a href="#">Deluxe double/twin room</a></h2>
+                                    
                                 </div>
 
                                 <div class="room_item-back">
-                                    <h3>FAMILY ROOM</h3>
-                                    <span class="price">Start form $120 per day</span>
-                                    <p>Lorem Ipsum is simply dummy text of the <b>printing</b> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book ...</p>
+                                    <h3>Deluxe double/twin room</h3>
+                                    
+                                    <p>Experience comfort in our Deluxe Double/Twin Room, featuring two beds that can be joined for flexibility. Enjoy a bright and cozy ambiance with fast WiFi and a big TV. Indulge in coffee/tea amenities, ample storage, a safe, and fridge. Relax with garden views and refresh in the modern bathroom with shower and toiletries.</p>
                                     <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 

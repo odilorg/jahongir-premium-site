@@ -7,31 +7,11 @@
                     <div class="row">
 
                         <!-- WIDGET MAILCHIMP -->
-                        <div class="col-lg-9">
-                            <div class="mailchimp">
-                                <h4>News &amp; Offers</h4>
-                                <div class="mailchimp-form">
-                                    <form action="#" method="POST">
-                                        <input type="text" name="email" placeholder="Your email address" class="input-text">
-                                        <button class="awe-btn">SIGN UP</button>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <!-- END / WIDGET MAILCHIMP -->
                         
                         <!-- WIDGET SOCIAL -->
-                        <div class="col-lg-3">
-                            <div class="social">
-                                <div class="social-content">
-                                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                                    <a href="#"><i class="fa fa-facebook"></i></a>
-                                    <a href="#"><i class="fa fa-twitter"></i></a>
-                                    <a href="#"><i class="fa fa-google-plus"></i></a>
-                                    <a href="#"><i class="fa fa-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <!-- END / WIDGET SOCIAL -->
 
                     </div>
