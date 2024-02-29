@@ -1,7 +1,6 @@
 <?php
 $title = "Book a room in Jahongir Premium hotel";
 include("includes/header.php") ?>
-
         <!-- SUB BANNER -->
         <section class="section-sub-banner bg-9">
             <div class="awe-overlay"></div>
@@ -82,7 +81,7 @@ include("includes/header.php") ?>
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="#">Superior double/twin</a></h2>
+                                    <h2><a href="room-detail-superior-double-room.php">Superior double/twin</a></h2>
                                    
                                 </div>
 
@@ -90,7 +89,7 @@ include("includes/header.php") ?>
                                     <h3>Superior double/twin</h3>
                                    
                                     <p>Experience comfort in our Superior Double/Twin rooms, featuring a large double bed, fast in-room WiFi, and a spacious wardrobe. Enjoy entertainment on the large TV and indulge in coffee/tea amenities. Take in garden views from the window and rejuvenate in the modern bathroom with shower and complimentary toiletries.</p>
-                                    <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <a href="room-detail-superior-double-room.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
                             </div>
