@@ -24,9 +24,11 @@
     <link rel="stylesheet" type="text/css" href="css/lib/magnific-popup.css">
     <link rel="stylesheet" type="text/css" href="css/lib/settings.css">
     <link rel="stylesheet" type="text/css" href="css/lib/bootstrap-select.min.css">
-    <script src='https://media.xmlcal.com/widget/1.00/js/bookWidget.min.js'></script>
+  
     
-
+    
+    
+    
     <!-- MAIN STYLE -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     
@@ -94,10 +96,7 @@
                                 echo "class='current-menu-item'";
                             } ?> >
                                 <a href="index.php">Home </span></a>
-                            </li>
                            
-                                <a href="about.php">About </span></a>
-                            </li>
                             <li <?php $url1 = strtok($url, '.');  if (trim($url1) == "rooms") {
                                 echo "class='current-menu-item'";
                             } ?> >

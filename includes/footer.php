@@ -103,17 +103,10 @@
 
 
     <!-- LOAD JQUERY -->
-    <script>
-        $(document).ready(function() {
-            $('#bookWidget-22885-172793-0-1684931449').bookWidget({
-                propid:172793,
-                formAction:'https://beds24.com/booking.php',
-                widgetLang:'en',
-                widgetType:'BookingBox'
-            });
-        });
-        </script>
-    <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="js/lib/jquery-1.11.0.min.js"></script>
+ 
+
+    <script data-cfasync="false" src="js/lib/email-decode.min.js"></script>
+    <script type="text/javascript" src="js/lib/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="js/lib/jquery-ui.min.js"></script>
     <script type="text/javascript" src="js/lib/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/lib/bootstrap-select.js"></script>
@@ -133,4 +126,29 @@
     <script type="text/javascript" src="js/lib/jquery.validate.min.js"></script>
     <!-- Custom jQuery -->
     <script type="text/javascript" src="js/scripts.js"></script>
+    <script>
+jQuery(document).ready(function() {
+	jQuery('#bookWidget-95277-172793-377291-1709219023').bookWidget({
+		propid:172793,
+		availableBackgroundColor:'#008000',
+		boxShadow:true,
+		buttonBackgroundColor:'#e1bd85',
+		dateFormat:'dd.mm.yy',
+		dateSelection:3,
+		defaultNightsAdvance:0,
+		defaultNumAdult:1,
+		defaultNumNight:1,
+		formAction:'https://beds24.com/booking.php',
+		showLabels:true,
+		unavailableBackgroundColor:'#eeeeee',
+		weekFirstDay:1,
+		widgetLang:'en',
+		widgetTitle:'Book Room',
+		widgetType:'BookingBox',
+		width:'auto'
+	});
+});
+</script>
+
+<script src='https://media.xmlcal.com/widget/1.00/js/bookWidget.min.js'></script>
     <!-- The following will initialize the widget in the above div -->

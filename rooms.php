@@ -32,16 +32,15 @@ include("includes/header.php") ?>
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="#">STANDARD Double/Twin</a></h2>
+                                    <h2><a href="room-detail-double-room.php">STANDARD Double/Twin</a></h2>
                                    
                                 </div>
 
                                 <div class="room_item-back">
                                     <h3>STANDARD Double/Twin</h3>
                                     
-                                    <p>
-Our Standard Double/Twin rooms offer bright spaces with convenient lighting, fast in-room WiFi, and a large TV. Enjoy coffee/tea amenities, a spacious wardrobe, safe, and fridge. Relax with garden views from the window and refresh in the modern bathroom with shower and toiletries.</p>
-                                    <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <p>Our Standard Double/Twin rooms offer bright spaces with convenient lighting, fast in-room WiFi, and a large TV. Enjoy coffee/tea amenities, a spacious wardrobe, safe, and fridge. Relax with garden views from the window and refresh in the modern bathroom with shower and toiletries.</p>
+                                    <a href="room-detail-double-room.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
                             </div>
@@ -57,7 +56,7 @@ Our Standard Double/Twin rooms offer bright spaces with convenient lighting, fas
                                 </div>
 
                                 <div class="room_item-forward">
-                                    <h2><a href="#">Deluxe FAMILY ROOM</a></h2>
+                                    <h2><a href="room-detail-deluxe-family-room.php">Deluxe FAMILY ROOM</a></h2>
                                     
                                 </div>
 
@@ -65,7 +64,7 @@ Our Standard Double/Twin rooms offer bright spaces with convenient lighting, fas
                                     <h3>Deluxe FAMILY ROOM</h3>
                                     
                                     <p>Indulge in our Deluxe Family Room, featuring a spacious layout with one large bed and one single bed. Enjoy ample lighting, fast WiFi, a large TV, coffee/tea facilities, a wardrobe, safe, fridge, and a garden-view window. Refresh in the modern bathroom with shower and toiletries.</p>
-                                    <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <a href="room-detail-deluxe-family-room.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
 
                                 
