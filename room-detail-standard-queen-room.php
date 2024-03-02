@@ -1,5 +1,5 @@
 <?php
-$title = "Book a room in Jahongir Premium hotel";
+$title = "Book a standard queen room in Jahongir Premium hotel";
 include("includes/header.php") ?>
         
         <!-- SUB BANNER -->
@@ -8,7 +8,7 @@ include("includes/header.php") ?>
             <div class="sub-banner">
                 <div class="container">
                     <div class="text text-center">
-                        <h2>Superior Double/Twin Room</h2>
+                        <h2>Standard queen room</h2>
                     </div>
                 </div>
             </div>
@@ -24,39 +24,29 @@ include("includes/header.php") ?>
                             <!-- LAGER IMGAE -->
                             <div class="room-detail_img">
                             <div class="room_img-item">
-                                    <img src="images/room/detail/superior-double-twin-room/superior-double-room-hotel-double-bed-desk-wardrobe.jpg" alt="Charming superior double room in the hotel, featuring a comfortable double bed, desk, and wardrobe">    
-                                    <h6>Charming superior double room in the hotel, featuring a comfortable double bed, desk, and wardrobe</h6>
+                                    <img src="images/room/detail/deluxe-single-room/deluxe-single-room-hotel-desk-single-bed.jpg" alt="Refined deluxe single room in the hotel, featuring a desk and a comfortable single bed">    
+                                    <h6>Refined deluxe single room in the hotel, featuring a desk and a comfortable single bed</h6>
                                 </div>
                                 <div class="room_img-item">
-                                    <img src="images/room/detail/superior-double-twin-room/superior-twin-room-hotel-twin-beds-desk-coffee-table-armchairs.jpg" alt="Cozy superior twin room in the hotel with twin beds, desk, coffee table, and armchairs.">    
-                                    <h6>Cozy superior twin room in the hotel with twin beds, desk, coffee table, and armchairs.</h6>
-                                </div>
-                                <div class="room_img-item">
-                                    <img src="images/room/detail/superior-double-twin-room/superior-double-room-hotel-double-bed-desk-tv.jpg" alt="Inviting superior double room in the hotel with a double bed, desk, and TV">    
-                                    <h6>Inviting superior double room in the hotel with a double bed, desk, and TV</h6>
-                                </div>
-                                <div class="room_img-item">
-                                    <img src="images/room/detail/superior-double-twin-room/jahongir-premium-hotel-breakfast-buffet.jpg" alt="Variety of breakfast dishes at Jahongir Premium Hotel's buffet">    
+                                    <img src="images/room/detail/deluxe-single-room/jahongir-premium-hotel-breakfast-buffet.jpg" alt="Variety of breakfast dishes at Jahongir Premium Hotel's buffet">    
                                     <h6>Enjoy a hearty breakfast buffet at Jahongir Premium Hotel</h6>
                                 </div>
                                 <div class="room_img-item">
-                                    <img src="images/room/detail/superior-double-twin-room/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt="Wake up to a delightful breakfast buffet at Jahongir Premium Hotel">    
+                                    <img src="images/room/detail/deluxe-single-room/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt="Wake up to a delightful breakfast buffet at Jahongir Premium Hotel">    
                                     <h6>Start your day right with a lavish breakfast buffet at Jahongir Premium Hotel</h6>
                                 </div>
                                 <div class="room_img-item">
-                                    <img src="images/room/detail/superior-double-twin-room/jahongir-premium-hotel-shower-bathroom.jpg" alt="Enjoy a comfortable stay with complimentary toiletries in the bathroom">    
+                                    <img src="images/room/detail/deluxe-single-room/jahongir-premium-hotel-shower-bathroom.jpg" alt="Enjoy a comfortable stay with complimentary toiletries in the bathroom">    
                                     <h6>Enjoy a comfortable stay with complimentary toiletries in the bathroom</h6>
                                 </div>
                             </div>
                             <!-- END / LAGER IMGAE -->
                             <!-- THUMBNAIL IMAGE -->
                             <div class="room-detail_thumbs">
-                                <a href="#"><img src="images/room/detail/superior-double-twin-room/thumbnail/superior-double-room-hotel-double-bed-desk-wardrobe.jpg" alt=""></a>
-                                <a href="#"><img src="images/room/detail/superior-double-twin-room/thumbnail/superior-twin-room-hotel-twin-beds-desk-coffee-table-armchairs.jpg" alt=""></a>
-                                <a href="#"><img src="images/room/detail/superior-double-twin-room/thumbnail/superior-double-room-hotel-double-bed-desk-tv.jpg" alt=""></a>
-                                <a href="#"><img src="images/room/detail/superior-double-twin-room/thumbnail/jahongir-premium-hotel-breakfast-buffet.jpg" alt=""></a>
-                                <a href="#"><img src="images/room/detail/superior-double-twin-room/thumbnail/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt=""></a>
-                                <a href="#"><img src="images/room/detail/superior-double-twin-room/thumbnail/jahongir-premium-shower-bath.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/deluxe-single-room/thumbnail/deluxe-single-room-hotel-desk-single-bed.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/deluxe-single-room/thumbnail/jahongir-premium-hotel-breakfast-buffet.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/deluxe-single-room/thumbnail/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/deluxe-single-room/thumbnail/jahongir-premium-shower-bath.jpg" alt=""></a>
                             </div>
                             <!-- END / THUMBNAIL IMAGE -->
                         </div>
@@ -92,16 +82,16 @@ include("includes/header.php") ?>
                                 <!-- AMENITIES -->
                                 <div class="tab-pane fade active in" id="amenities">
                                 <div class="room-detail_overview">
-                                        <h5 class='text-uppercase'>Superior Double/Twin room</h5>
-                                        <p>Experience the luxury of our Superior Double/Twin Room, boasting a generous layout with a large bed and a single bed. Revel in abundant natural light, high-speed WiFi, a large TV, coffee/tea amenities, a wardrobe, safe, refrigerator, and a window overlooking the garden. Unwind in the contemporary bathroom equipped with a shower and complimentary toiletries.</p>
+                                        <h5 class='text-uppercase'>Deluxe single room</h5>
+                                        <p>Experience comfort and convenience in our Deluxe Single Room. Enjoy a bright and cozy atmosphere, fast WiFi, and a large TV. Indulge in coffee/tea amenities, ample storage in a big wardrobe, and the security of a safe. Relax with garden views from the window and refresh in the modern bathroom with shower and toiletries.</p>
                                         <div class="row">
                                             <div class="col-xs-6 col-md-4">
                                                 <h6>Room facilities</h6>
                                                 <ul>
-                                                    <li>Max: 2 Persons</li>
-                                                    <li>Size: 22 m2 / 236 ft2</li>
+                                                    <li>Max: 1 Persons</li>
+                                                    <li>Size: 13 m2 / 140 ft2</li>
                                                     <li>View: Garden</li>
-                                                    <li>Bed: King-size or two single beds</li>
+                                                    <li>Bed: single bed</li>
                                                     <li>Work desk</li>
                                                 </ul>
                                             </div>
