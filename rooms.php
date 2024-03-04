@@ -129,36 +129,25 @@ include("includes/header.php") ?>
                             </div>
                         </div>
                         <!-- END / ITEM -->
-
                         <!-- ITEM -->
                         <div class="col-xs-6">
                             <div class="room_item-5"  data-background='images/room/grid2/img-5.jpg'>
-
                                 <div class="img">
-                                    <a href="#"><img src="images/room/grid2/img-5.jpg" alt=""></a>
+                                    <a href="room-detail-deluxe-double-twin-room.php"><img src="images/room/grid2/img-5.jpg" alt=""></a>
                                 </div>
-
                                 <div class="room_item-forward">
-                                    <h2><a href="#">Deluxe double/twin room</a></h2>
-                                    
+                                    <h2><a href="room-detail-deluxe-double-twin-room.php">Deluxe double/twin room</a></h2>
                                 </div>
-
                                 <div class="room_item-back">
                                     <h3>Deluxe double/twin room</h3>
-                                    
                                     <p>Experience comfort in our Deluxe Double/Twin Room, featuring two beds that can be joined for flexibility. Enjoy a bright and cozy ambiance with fast WiFi and a big TV. Indulge in coffee/tea amenities, ample storage, a safe, and fridge. Relax with garden views and refresh in the modern bathroom with shower and toiletries.</p>
-                                    <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <a href="room-detail-deluxe-double-twin-room.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
-
                             </div>
                         </div>
                         <!-- END / ITEM -->
-
-                        
-
                     </div>
                 </div>
-                
             </div>
         </section>
         <!-- END / ROOM -->

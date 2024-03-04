@@ -137,6 +137,7 @@ include("includes/header.php") ?>
                                                     <li>View: Garden</li>
                                                     <li>Bed: King-size or twin beds</li>
                                                     <li>Work desk</li>
+                                                    <li>Hair Dryer</li>
                                                 </ul>
                                             </div>
                                             <div class="col-xs-6 col-md-4">
@@ -147,6 +148,7 @@ include("includes/header.php") ?>
                                                     <li>A/C</li>
                                                     <li>Wardrobe</li>
                                                     <li>Safe</li>
+                                                    <li>Fridge</li>
                                                 </ul>
                                             </div>
                                            

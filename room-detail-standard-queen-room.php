@@ -24,8 +24,16 @@ include("includes/header.php") ?>
                             <!-- LAGER IMGAE -->
                             <div class="room-detail_img">
                                 <div class="room_img-item">
-                                    <img src="images/room/detail/standard-queen-room/queen-room-hotel-double-bed-desk-safe.jpg" alt="Refined deluxe single room in the hotel, featuring a desk and a comfortable single bed">    
-                                    <h6>Refined deluxe single room in the hotel, featuring a desk and a comfortable single bed</h6>
+                                    <img src="images/room/detail/standard-queen-room/queen-room-hotel-double-bed-desk-safe.jpg" alt="Cozy standard queen room featuring a comfortable bed, desk, and wardrobe">    
+                                    <h6>Cozy standard queen room featuring a comfortable bed, desk, and wardrobe</h6>
+                                </div>
+                                <div class="room_img-item">
+                                    <img src="images/room/detail/standard-queen-room/queen-room-hotel-double-bed-desk-wardrobe.jpg" alt="Well-appointed queen hotel room including a double bed, desk, fridge, and safe">    
+                                    <h6>Well-appointed queen hotel room including a double bed, desk, fridge, and safe</h6>
+                                </div>
+                                <div class="room_img-item">
+                                    <img src="images/room/detail/standard-queen-room/queen-room-hotel-double-bed-desk-tv-garden-view.jpg" alt="Spacious queen hotel accommodation with double bed, desk, fridge, safe and wardrob">    
+                                    <h6>Spacious queen hotel accommodation with double bed, desk, fridge, safe and wardrob</h6>
                                 </div>
                                 <div class="room_img-item">
                                     <img src="images/room/detail/standard-queen-room/jahongir-premium-hotel-breakfast-buffet.jpg" alt="Variety of breakfast dishes at Jahongir Premium Hotel's buffet">    
@@ -36,7 +44,7 @@ include("includes/header.php") ?>
                                     <h6>Start your day right with a lavish breakfast buffet at Jahongir Premium Hotel</h6>
                                 </div>
                                 <div class="room_img-item">
-                                    <img src="images/room/detail/standard-queen-room/jahongir-premium-hotel-shower-bathroom.jpg" alt="Enjoy a comfortable stay with complimentary toiletries in the bathroom">    
+                                    <img src="images/room/detail/standard-queen-room/jahongir-premum-hotel-shower-bathroom.jpg" alt="Enjoy a comfortable stay with complimentary toiletries in the bathroom">    
                                     <h6>Enjoy a comfortable stay with complimentary toiletries in the bathroom</h6>
                                 </div>
                             </div>
@@ -44,6 +52,8 @@ include("includes/header.php") ?>
                             <!-- THUMBNAIL IMAGE -->
                             <div class="room-detail_thumbs">
                                 <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/queen-room-hotel-double-bed-desk-safe.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/queen-room-hotel-double-bed-desk-wardrobe.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/queen-room-hotel-double-bed-desk-tv-garden-view.jpg" alt=""></a>
                                 <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/jahongir-premium-hotel-breakfast-buffet.jpg" alt=""></a>
                                 <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt=""></a>
                                 <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/jahongir-premium-shower-bath.jpg" alt=""></a>
@@ -82,17 +92,18 @@ include("includes/header.php") ?>
                                 <!-- AMENITIES -->
                                 <div class="tab-pane fade active in" id="amenities">
                                 <div class="room-detail_overview">
-                                        <h5 class='text-uppercase'>Deluxe single room</h5>
-                                        <p>Experience comfort and convenience in our Deluxe Single Room. Enjoy a bright and cozy atmosphere, fast WiFi, and a large TV. Indulge in coffee/tea amenities, ample storage in a big wardrobe, and the security of a safe. Relax with garden views from the window and refresh in the modern bathroom with shower and toiletries.</p>
+                                        <h5 class='text-uppercase'>Standard queen room</h5>
+                                        <p>Unwind in our Standard Queen Room, featuring a bright and cozy atmosphere. Enjoy fast in-room WiFi and entertainment on a big TV. Take advantage of coffee/tea amenities, ample storage in a big wardrobe, and the security of a safe. Relax with garden views from the window and rejuvenate in the modern bathroom with shower and toiletries.</p>
                                         <div class="row">
                                             <div class="col-xs-6 col-md-4">
                                                 <h6>Room facilities</h6>
                                                 <ul>
-                                                    <li>Max: 1 Persons</li>
-                                                    <li>Size: 13 m2 / 140 ft2</li>
+                                                    <li>Max: 2 Persons</li>
+                                                    <li>Size: 16 m2 / 172 ft2</li>
                                                     <li>View: Garden</li>
-                                                    <li>Bed: single bed</li>
+                                                    <li>Bed: double bed</li>
                                                     <li>Work desk</li>
+                                                    <li>Hair Dryer</li>
                                                 </ul>
                                             </div>
                                             <div class="col-xs-6 col-md-4">
@@ -103,6 +114,7 @@ include("includes/header.php") ?>
                                                     <li>A/C</li>
                                                     <li>Wardrobe</li>
                                                     <li>Safe</li>
+                                                    <li>Fridge</li>
                                                 </ul>
                                             </div>
                                            

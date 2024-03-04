@@ -1,20 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php $my_url = htmlspecialchars($_SERVER['REQUEST_URI']); $url = substr($my_url, strrpos($my_url, '/' )+1)."\n";  ?>
-
 <head>
     <meta charset="utf-8">
     <!-- TITLE -->
     <title><?php echo $title; ?></title>
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <link rel="shortcut icon" href="images/favicon.png"/>
-
     <!-- GOOGLE FONT -->
     <link href="https://fonts.googleapis.com/css?family=Hind:400,300,500,600%7cMontserrat:400,700" rel='stylesheet' type='text/css'>
-
     <!-- CSS LIBRARY -->
     <link rel="stylesheet" type="text/css" href="css/lib/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="css/lib/font-lotusicon.css">
@@ -24,25 +20,17 @@
     <link rel="stylesheet" type="text/css" href="css/lib/magnific-popup.css">
     <link rel="stylesheet" type="text/css" href="css/lib/settings.css">
     <link rel="stylesheet" type="text/css" href="css/lib/bootstrap-select.min.css">
-  
-    
-    
-    
-    
     <!-- MAIN STYLE -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    
     <!--[if lt IE 9]>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
     <![endif]-->
 </head>
-
 <!--[if IE 7]> <body class="ie7 lt-ie8 lt-ie9 lt-ie10"> <![endif]-->
 <!--[if IE 8]> <body class="ie8 lt-ie9 lt-ie10"> <![endif]-->
 <!--[if IE 9]> <body class="ie9 lt-ie10"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
-    
     <!-- PRELOADER -->
     <div id="preloader">
         <span class="preloader-dot"></span>

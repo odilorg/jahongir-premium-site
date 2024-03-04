@@ -93,6 +93,7 @@ include("includes/header.php") ?>
                                                     <li>View: Garden</li>
                                                     <li>Bed: single bed</li>
                                                     <li>Work desk</li>
+                                                    <li>Fridge</li>
                                                 </ul>
                                             </div>
                                             <div class="col-xs-6 col-md-4">
@@ -103,6 +104,7 @@ include("includes/header.php") ?>
                                                     <li>A/C</li>
                                                     <li>Wardrobe</li>
                                                     <li>Safe</li>
+                                                    <li>Hair Dryer</li>
                                                 </ul>
                                             </div>
                                            
