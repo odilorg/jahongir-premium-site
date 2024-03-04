@@ -95,52 +95,37 @@ include("includes/header.php") ?>
                             </div>
                         </div>
                         <!-- END / ITEM -->
-
                         <!-- ITEM -->
                         <div class="col-xs-6">
                             <div class="room_item-5"  data-background='images/room/grid2/img-6.jpg'>
-
                                 <div class="img">
                                     <a href="room-detail-deluxe-single-room.php"><img src="images/room/grid2/img-6.jpg" alt=""></a>
                                 </div>
-
                                 <div class="room_item-forward">
                                     <h2><a href="room-detail-deluxe-single-room.php">Deluxe single ROOM</a></h2>
-                                   
                                 </div>
-
                                 <div class="room_item-back">
                                     <h3>Deluxe single ROOM</h3>
-                                   
                                     <p>Experience comfort and convenience in our Deluxe Single Room. Enjoy a bright and cozy atmosphere, fast WiFi, and a large TV. Indulge in coffee/tea amenities, ample storage in a big wardrobe, and the security of a safe. Relax with garden views from the window and refresh in the modern bathroom with shower and toiletries.</p>
                                     <a href="room-detail-deluxe-single-room.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
-
                             </div>
                         </div>
                         <!-- END / ITEM -->
-
                         <!-- ITEM -->
                         <div class="col-xs-6">
                             <div class="room_item-5" data-background='images/room/grid2/img-4.jpg'>
-
                                 <div class="img">
-                                    <a href="#"><img src="images/room/grid2/img-4.jpg" alt=""></a>
+                                    <a href="room-detail-standard-queen-room.php"><img src="images/room/grid2/img-4.jpg" alt=""></a>
                                 </div>
-
                                 <div class="room_item-forward">
-                                    <h2><a href="#">STANDARD queen room</a></h2>
-                                    
+                                    <h2><a href="room-detail-standard-queen-room.php">STANDARD queen room</a></h2>
                                 </div>
-
                                 <div class="room_item-back">
                                     <h3>STANDARD queen room</h3>
-                                    
-                                    <p>
-Unwind in our Standard Queen Room, featuring a bright and cozy atmosphere. Enjoy fast in-room WiFi and entertainment on a big TV. Take advantage of coffee/tea amenities, ample storage in a big wardrobe, and the security of a safe. Relax with garden views from the window and rejuvenate in the modern bathroom with shower and toiletries.</p>
-                                    <a href="#" class="awe-btn awe-btn-13">VIEW DETAILS</a>
+                                    <p>Unwind in our Standard Queen Room, featuring a bright and cozy atmosphere. Enjoy fast in-room WiFi and entertainment on a big TV. Take advantage of coffee/tea amenities, ample storage in a big wardrobe, and the security of a safe. Relax with garden views from the window and rejuvenate in the modern bathroom with shower and toiletries.</p>
+                                    <a href="room-detail-standard-queen-room.php" class="awe-btn awe-btn-13">VIEW DETAILS</a>
                                 </div>
-
                             </div>
                         </div>
                         <!-- END / ITEM -->

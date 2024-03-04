@@ -23,30 +23,30 @@ include("includes/header.php") ?>
                         <div class="col-lg-8">
                             <!-- LAGER IMGAE -->
                             <div class="room-detail_img">
-                            <div class="room_img-item">
-                                    <img src="images/room/detail/deluxe-single-room/deluxe-single-room-hotel-desk-single-bed.jpg" alt="Refined deluxe single room in the hotel, featuring a desk and a comfortable single bed">    
+                                <div class="room_img-item">
+                                    <img src="images/room/detail/standard-queen-room/queen-room-hotel-double-bed-desk-safe.jpg" alt="Refined deluxe single room in the hotel, featuring a desk and a comfortable single bed">    
                                     <h6>Refined deluxe single room in the hotel, featuring a desk and a comfortable single bed</h6>
                                 </div>
                                 <div class="room_img-item">
-                                    <img src="images/room/detail/deluxe-single-room/jahongir-premium-hotel-breakfast-buffet.jpg" alt="Variety of breakfast dishes at Jahongir Premium Hotel's buffet">    
+                                    <img src="images/room/detail/standard-queen-room/jahongir-premium-hotel-breakfast-buffet.jpg" alt="Variety of breakfast dishes at Jahongir Premium Hotel's buffet">    
                                     <h6>Enjoy a hearty breakfast buffet at Jahongir Premium Hotel</h6>
                                 </div>
                                 <div class="room_img-item">
-                                    <img src="images/room/detail/deluxe-single-room/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt="Wake up to a delightful breakfast buffet at Jahongir Premium Hotel">    
+                                    <img src="images/room/detail/standard-queen-room/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt="Wake up to a delightful breakfast buffet at Jahongir Premium Hotel">    
                                     <h6>Start your day right with a lavish breakfast buffet at Jahongir Premium Hotel</h6>
                                 </div>
                                 <div class="room_img-item">
-                                    <img src="images/room/detail/deluxe-single-room/jahongir-premium-hotel-shower-bathroom.jpg" alt="Enjoy a comfortable stay with complimentary toiletries in the bathroom">    
+                                    <img src="images/room/detail/standard-queen-room/jahongir-premium-hotel-shower-bathroom.jpg" alt="Enjoy a comfortable stay with complimentary toiletries in the bathroom">    
                                     <h6>Enjoy a comfortable stay with complimentary toiletries in the bathroom</h6>
                                 </div>
                             </div>
                             <!-- END / LAGER IMGAE -->
                             <!-- THUMBNAIL IMAGE -->
                             <div class="room-detail_thumbs">
-                                <a href="#"><img src="images/room/detail/deluxe-single-room/thumbnail/deluxe-single-room-hotel-desk-single-bed.jpg" alt=""></a>
-                                <a href="#"><img src="images/room/detail/deluxe-single-room/thumbnail/jahongir-premium-hotel-breakfast-buffet.jpg" alt=""></a>
-                                <a href="#"><img src="images/room/detail/deluxe-single-room/thumbnail/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt=""></a>
-                                <a href="#"><img src="images/room/detail/deluxe-single-room/thumbnail/jahongir-premium-shower-bath.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/queen-room-hotel-double-bed-desk-safe.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/jahongir-premium-hotel-breakfast-buffet.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/jahongir-premium-hotel-breakfast-buffet-sweets.jpg" alt=""></a>
+                                <a href="#"><img src="images/room/detail/standard-queen-room/thumbnail/jahongir-premium-shower-bath.jpg" alt=""></a>
                             </div>
                             <!-- END / THUMBNAIL IMAGE -->
                         </div>
