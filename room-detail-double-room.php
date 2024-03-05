@@ -74,28 +74,19 @@ include("includes/header.php") ?>
                             <!-- END / THUMBNAIL IMAGE -->
 
                         </div>
-
                         <div class="col-lg-4">
-
                             <!-- FORM BOOK -->
                             <div class="room-detail_book">
-
                                 <div class="room-detail_total">
                                     <img src="images/icon-logo.png" alt="" class="icon-logo">
-                                    
                                     <h3>CHECK THE AVAILABILITY</h6>
-                                    
-                                    
                                 </div>
-                                
                                 <div class="room-detail_form">
                                     <!-- Place this div on your page where you want the widget to show -->
                                     <div id='bookWidget-95277-172793-377291-1709219023'> </div>
                                 </div>
-
                             </div>
                             <!-- END / FORM BOOK -->
-
                         </div>
                     </div>
                 </div>
@@ -103,31 +94,23 @@ include("includes/header.php") ?>
                 
                 <!-- TAB -->
                 <div class="room-detail_tab">
-                    
                     <div class="row">
                         <div class="col-md-3">
                             <ul class="room-detail_tab-header">
                                 <li class="active"><a href="#amenities" data-toggle="tab">amenities</a></li>
-                                
-                                
-                               
                             </ul>
                         </div>
-                                        
                         <div class="col-md-9">
                             <div class="room-detail_tab-content tab-content">
-                                
                                 <!-- OVERVIEW -->
                                 
                                 <!-- END / OVERVIEW -->
 
                                 <!-- AMENITIES -->
                                 <div class="tab-pane fade active in" id="amenities">
-                                    
                                 <div class="room-detail_overview">
                                         <h5 class='text-uppercase'>Standard Double/twin room</h5>
                                         <p>Our Standard Double/Twin rooms offer bright spaces with convenient lighting, fast in-room WiFi, and a large TV. Enjoy coffee/tea amenities, a spacious wardrobe, safe, and fridge. Relax with garden views from the window and refresh in the modern bathroom with shower and toiletries.</p>
-
                                         <div class="row">
                                             <div class="col-xs-6 col-md-4">
                                                 <h6>Room facilities</h6>
@@ -151,11 +134,8 @@ include("includes/header.php") ?>
                                                     <li>Fridge</li>
                                                 </ul>
                                             </div>
-                                           
                                         </div>
-
                                     </div>
-
                                 </div>
                                 <!-- END / AMENITIES -->
 
@@ -173,39 +153,30 @@ include("includes/header.php") ?>
 
                             </div>
                         </div>
-
                     </div>
-
                 </div>
                 <!-- END / TAB -->
 
                 <!-- COMPARE ACCOMMODATION -->
                 <div class="room-detail_compare">
                     <h2 class="room-compare_title">OUR OTHER ROOMS</h2>
-
                     <div class="room-compare_content">
-                        
                         <div class="row">
                             <!-- ITEM -->
                             <div class="col-sm-6 col-md-4 col-lg-3">
                                 <div class="room-compare_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/room/detail/compare/img-1.jpg" alt=""></a>
+                                        <a href="room-detail-deluxe-family-room.php"><img src="images/room/detail/compare/deluxe-family-room-jahongir-premium.jpg" alt=""></a>
                                     </div>  
-                                
                                     <div class="text">
-                                        <h2><a href="#">LUxury room</a></h2>
-                                
+                                        <h2><a href="room-detail-deluxe-family-room.php">Deluxe family room</a></h2>
                                         <ul>
-                                            <li><i class="lotus-icon-person"></i> Max: 2 Person(s)</li>
-                                            <li><i class="lotus-icon-bed"></i> Bed: King-size or twin beds</li>
-                                            <li><i class="lotus-icon-view"></i> View: Ocen</li>
+                                            <li><i class="lotus-icon-person"></i> Max: 3 Persons</li>
+                                            <li><i class="lotus-icon-bed"></i> Bed: King-size and a single beds</li>
+                                            <li><i class="lotus-icon-view"></i> View: Garden</li>
                                         </ul>
-                                
-                                        <a href="#" class="awe-btn awe-btn-default">VIEW DETAIL</a>
-                                
+                                        <a href="room-detail-deluxe-family-room.php" class="awe-btn awe-btn-default">VIEW DETAIL</a>
                                     </div>
-                                
                                 </div>
                             </div>
                             <!-- END / ITEM -->
@@ -214,22 +185,17 @@ include("includes/header.php") ?>
                             <div class="col-sm-6 col-md-4 col-lg-3">
                                 <div class="room-compare_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/room/detail/compare/img-2.jpg" alt=""></a>
+                                        <a href="room-detail-superior-double-room.php"><img src="images/room/detail/compare/superior-double-room-jahongir-premium-hotel.jpg" alt=""></a>
                                     </div>  
-                                
                                     <div class="text">
-                                        <h2><a href="#">Family Room</a></h2>
-                                
+                                        <h2><a href="room-detail-superior-double-room.php">Superior Double/Twin</a></h2>
                                         <ul>
-                                            <li><i class="lotus-icon-person"></i> Max: 2 Person(s)</li>
-                                            <li><i class="lotus-icon-bed"></i> Bed: King-size or twin beds</li>
-                                            <li><i class="lotus-icon-view"></i> View: Ocen</li>
+                                            <li><i class="lotus-icon-person"></i> Max: 2 Persons</li>
+                                            <li><i class="lotus-icon-bed"></i> Bed: King-size or two single beds</li>
+                                            <li><i class="lotus-icon-view"></i> View: Garden</li>
                                         </ul>
-                                
-                                        <a href="#" class="awe-btn awe-btn-default">VIEW DETAIL</a>
-                                
+                                        <a href="room-detail-superior-double-room.php" class="awe-btn awe-btn-default">VIEW DETAIL</a>
                                     </div>
-                                
                                 </div>
                             </div>
                             <!-- END / ITEM -->
@@ -238,22 +204,17 @@ include("includes/header.php") ?>
                             <div class="col-sm-6 col-md-4 col-lg-3">
                                 <div class="room-compare_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/room/detail/compare/img-3.jpg" alt=""></a>
+                                        <a href="room-detail-deluxe-single-room.php"><img src="images/room/detail/compare/deluxe-single-room.jpg" alt=""></a>
                                     </div>  
-                                
                                     <div class="text">
-                                        <h2><a href="#">standard Room</a></h2>
-                                
+                                        <h2><a href="room-detail-deluxe-single-room.php">Deluxe Single room</a></h2>
                                         <ul>
-                                            <li><i class="lotus-icon-person"></i> Max: 2 Person(s)</li>
-                                            <li><i class="lotus-icon-bed"></i> Bed: King-size or twin beds</li>
-                                            <li><i class="lotus-icon-view"></i> View: Ocen</li>
+                                            <li><i class="lotus-icon-person"></i> Max: 1 Persons</li>
+                                            <li><i class="lotus-icon-bed"></i> Bed: a single bed</li>
+                                            <li><i class="lotus-icon-view"></i> View: Garden</li>
                                         </ul>
-                                
-                                        <a href="#" class="awe-btn awe-btn-default">VIEW DETAIL</a>
-                                
+                                        <a href="room-detail-deluxe-single-room.php" class="awe-btn awe-btn-default">VIEW DETAIL</a>
                                     </div>
-                                
                                 </div>
                             </div>
                             <!-- END / ITEM -->
@@ -262,22 +223,17 @@ include("includes/header.php") ?>
                             <div class="col-sm-6 col-md-4 col-lg-3">
                                 <div class="room-compare_item">
                                     <div class="img">
-                                        <a href="#"><img src="images/room/detail/compare/img-4.jpg" alt=""></a>
+                                        <a href="room-detail-standard-queen-room.php"><img src="images/room/detail/compare/standard-queen-room-jahongir-premium.jpg" alt=""></a>
                                     </div>  
-                                
                                     <div class="text">
-                                        <h2><a href="#">couple Room</a></h2>
-                                
+                                        <h2><a href="room-detail-standard-queen-room.php">Standard Queen room</a></h2>
                                         <ul>
-                                            <li><i class="lotus-icon-person"></i> Max: 2 Person(s)</li>
-                                            <li><i class="lotus-icon-bed"></i> Bed: King-size or twin beds</li>
-                                            <li><i class="lotus-icon-view"></i> View: Ocen</li>
+                                            <li><i class="lotus-icon-person"></i> Max: 2 Persons</li>
+                                            <li><i class="lotus-icon-bed"></i> Bed: Double bed</li>
+                                            <li><i class="lotus-icon-view"></i> View: Garden</li>
                                         </ul>
-                                
-                                        <a href="#" class="awe-btn awe-btn-default">VIEW DETAIL</a>
-                                
+                                        <a href="room-detail-standard-queen-room.php" class="awe-btn awe-btn-default">VIEW DETAIL</a>
                                     </div>
-                                
                                 </div>
                             </div>
                             <!-- END / ITEM -->
