@@ -28,9 +28,8 @@ if (isset($_POST['submit'])){
 
     if ($response->success) {
         $name = $_POST['name'];
-        $last_name = $_POST['last_name'];
         $email = $_POST['email'];
-        $phone = $_POST['phone'];
+        $email = $_POST['subject'];
         $message = $_POST['message'];
 
     try {
@@ -55,9 +54,8 @@ if (isset($_POST['submit'])){
         $mail->isHTML(true);                                  // Set email format to HTML
         $mail->Subject = "Message from Jahongir hotel website";
         $mail->Body    = "<h3>Name : $name <br>
-                              Last name : $last_name <br>
                               Email : $email <br>
-                              Phone : $phone <br>
+                              Subject : $subject <br>
                               Mesage : $message</h3>";
 
         $mail->send();

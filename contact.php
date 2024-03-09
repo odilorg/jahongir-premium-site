@@ -8,8 +8,8 @@ include("includes/header.php") ?>
         <div class="sub-banner">
             <div class="container">
                 <div class="text text-center">
-                    <h2>CONTACT WITH US</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing</p>
+                    <h2>CONTACT US</h2>
+                    
                 </div>
             </div>
 
@@ -37,7 +37,7 @@ include("includes/header.php") ?>
                         </div>
 
                         <div class="contact-location">
-                            <a class="btn-collapse" data-toggle="collapse" href="#location">OTHER LOCATION <span class="fa fa-angle-down"></span></a>
+                            <a class="btn-collapse" data-toggle="collapse" href="#location">Jahongir Guest house <span class="fa fa-angle-down"></span></a>
                             <div class="collapse" id="location">
                                 <div class="location-group">
                                     <h6>Jahongir Guest House</h6>
@@ -69,7 +69,7 @@ include("includes/header.php") ?>
 
                     <div class="col-md-6 col-lg-6 col-lg-offset-1">
                         <div class="contact-form">
-                            <form id="send-contact-form" action="https://landing.engotheme.com/html/lotus/demo/send_mail_contact.php" method="post">
+                            <form id="send-contact-form" action="" method="post">
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <input type="text" class="field-text"  name="name" placeholder="Name">
@@ -84,6 +84,7 @@ include("includes/header.php") ?>
                                         <textarea cols="30" rows="10" name="message"  class="field-textarea" placeholder="Write what do you want"></textarea>
                                     </div>
                                     <div class="col-sm-6">
+                                         <div class="g-recaptcha" data-sitekey="6Ld3L10aAAAAAPAKJ-94qhAv-m01T2fYZtX73nEO"></div>
                                         <button type="submit" class="awe-btn awe-btn-13">SEND</button>
                                     </div>
                                 </div>
