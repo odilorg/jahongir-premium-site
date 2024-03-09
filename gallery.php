@@ -9,7 +9,7 @@ include("includes/header.php") ?>
                 <div class="container">
                     <div class="text text-center">
                         <h2>Gallery</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing</p>
+                        <p>Immerse Yourself: Discover Our Gallery of Distinctive Hotel Rooms</p>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@ include("includes/header.php") ?>
                             <li><a href="#" data-filter=".ground">HOTEL &amp; GROUND</a></li>
                             <li><a href="#" data-filter=".suite">ROOM/SUITE </a></li>
                             <li><a href="#" data-filter=".bathroom">BATHROOM</a></li>
-                            <li><a href="#" data-filter=".dining">DINING</a></li>
+                            <li><a href="#" data-filter=".dining">Breakfast</a></li>
                         </ul>
                     </div>
                     <!-- END / FILTER -->
@@ -43,7 +43,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM SIZE -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope ground suite dining">
+                                <div class="item-isotope ground">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/inner-garden.jpg" class="mfp-image" title="Jahongir Premium Inner Garden">
                                             <img src="images/gallery/hotel-grounds/inner-garden.jpg" alt="">
@@ -54,7 +54,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom suite">
+                                <div class="item-isotope  ground">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/inner-courtyard.jpg" class="mfp-image" title="Jahongir Premium courtyard">
                                             <img src="images/gallery/hotel-grounds/inner-courtyard.jpg" alt="">
@@ -65,7 +65,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom dining">
+                                <div class="item-isotope  ground">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/hotel-walkway-terrace.jpg" class="mfp-image" title="Walkway terrace">
                                             <img src="images/gallery/hotel-grounds/hotel-walkway-terrace.jpg" alt="">
@@ -76,7 +76,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope suite dining ">
+                                <div class="item-isotope suite">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/deluxe-triple-room.jpg" class="mfp-image" title="Deluxe triple room">
                                             <img src="images/gallery/room-suite/deluxe-triple-room.jpg" alt="Deluxe triple room in Jahongir premium">
@@ -87,7 +87,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground suite dining">
+                                <div class="item-isotope suite">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/standard-double-twin-room-headboard.jpg" class="mfp-image" title="Standard double or twin room ">
                                             <img src="images/gallery/room-suite/standard-double-twin-room-headboard.jpg" alt="Standard double or twin room">
@@ -98,18 +98,11 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope ground bathroom dining">
-                                    <div class="gallery_item">
-                                        <a href="https://www.youtube.com/watch?v=RnjZ6IhkR40" target="_blank" class="mfp-iframe" title="Luxury Room view all">
-                                            <img src="images/gallery/page/img-6.jpg" alt="">
-                                        </a>
-                                        <span class="icon"><i class="fa lotus-icon-media-play"></i></span>
-                                    </div>
-                                </div>
+                                
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope ground suite dining">
+                                <div class="item-isotope suite">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/standard-double-twin-room-window.jpg" class="mfp-image" title="Standard double or twin room">
                                             <img src="images/gallery/room-suite/standard-double-twin-room-window.jpg" alt="">
@@ -120,7 +113,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope bathroom suite dining">
+                                <div class="item-isotope bathroom">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/room-bathroom-shower.jpg" class="mfp-image" title="Private Bathroom with walk-in shower">
                                             <img src="images/gallery/bathroom/room-bathroom-shower.jpg" alt="Private Bathroom with walk-in shower">
@@ -131,18 +124,11 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope bathroom suite dining">
-                                    <div class="gallery_item">
-                                        <a href="https://www.youtube.com/watch?v=RnjZ6IhkR40" target="_blank" class="mfp-iframe" title="Luxury Room view all">
-                                            <img src="images/gallery/page/img-9.jpg" alt="">
-                                        </a>
-                                        <span class="icon"><i class="fa lotus-icon-media-play"></i></span>
-                                    </div>
-                                </div>
+                               
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope ground bathroom">
+                                <div class="item-isotope bathroom">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/room-bathroom-sink-mirror.jpg" class="mfp-image" title="Private Bathroom with walk-in shower">
                                             <img src="images/gallery/bathroom/room-bathroom-sink-mirror.jpg" alt="Private Bathroom sink and mirror">
@@ -153,7 +139,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom suite ">
+                                <div class="item-isotope bathroom ">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/room-private-bathroom-walk-in-shower.jpg" target="_blank" class="mfp-image">
                                             <img src="images/gallery/bathroom/room-private-bathroom-walk-in-shower.jpg" alt="Private Bathroom with walk-in shower">
@@ -164,7 +150,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom">
+                                <div class="item-isotope  suite">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/superior-double-room-furniture.jpg" class="mfp-image" title="Superior double room furniture">
                                             <img src="images/gallery/room-suite/superior-double-room-furniture.jpg" alt="Superior double room desk, TV, luggage s">
@@ -175,7 +161,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom">
+                                <div class="item-isotope suite">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/superior-double-room.jpg" class="mfp-image" title="Superior Double room">
                                             <img src="images/gallery/room-suite/superior-double-room.jpg" alt="Superior Double room">
@@ -186,7 +172,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom">
+                                <div class="item-isotope  dining">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/breakfast-buffer-coffee-tea-bread.jpg" class="mfp-image" title="Breakfast buffet">
                                             <img src="images/gallery/breakfast/breakfast-buffer-coffee-tea-bread.jpg" alt="Breakfast buffet in Jahongir Premium">
@@ -197,7 +183,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom">
+                                <div class="item-isotope dining">
                                     <div class="gallery_item">
                                         <a href="images/gallery/popup/breakfast-buffet-jams.jpg" class="mfp-image" title="Breakfast buffet">
                                             <img src="images/gallery/breakfast/breakfast-buffet-jams.jpg" alt="Breakfast buffet">
@@ -208,7 +194,7 @@ include("includes/header.php") ?>
                                 <!-- END / ITEM -->
 
                                 <!-- ITEM -->
-                                <div class="item-isotope  ground bathroom">
+                                <div class="item-isotope dining">
                                     <div class="gallery_item">
                                         <a  href="images/gallery/popup/breakfast-buffet-hot-dishes.jpg" class="mfp-image" title="Breakfast buffet in Jahongir Premium hot Dishes">
                                             <img src="images/gallery/breakfast/breakfast-buffet-hot-dishes.jpg" alt="Breakfast buffet in Jahongir Premium hot Dishes">

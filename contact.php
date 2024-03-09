@@ -1,4 +1,5 @@
 <?php
+include 'mailer.php';
 $title = "Contact Jahongir Premium hotel in Samarkand";
 include("includes/header.php") ?>
 

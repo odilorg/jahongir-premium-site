@@ -95,10 +95,11 @@
                             } ?> >
                                 <a href="gallery.php">Gallery </span></a>
                             </li>
-                            <li <?php $url1 = strtok($url, '.');  if (trim($url1) == "guest-book") {
-                                echo "class='current-menu-item'";
-                            } ?> >
-                                <a href="guest-book.php">Guest Book</span></a>
+                            <li>
+                                <a href="https://jahongirbandb.com/">Jahongir Guest House</span></a>
+                            </li>
+                            <li>
+                                <a href="https://jahongir-travel.uz/">Tours</span></a>
                             </li>
                             <li <?php $url1 = strtok($url, '.');  if (trim($url1) == "contact") {
                                 echo "class='current-menu-item'";
