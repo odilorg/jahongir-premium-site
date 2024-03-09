@@ -1,5 +1,5 @@
 <?php
-include 'mailer.php';
+include ("mailer.php");
 $title = "Contact Jahongir Premium hotel in Samarkand";
 include("includes/header.php") ?>
 
@@ -66,10 +66,11 @@ include("includes/header.php") ?>
                         </div>
 
                     </div>
-
+                    <?php echo $alert; ?>
+                    
                     <div class="col-md-6 col-lg-6 col-lg-offset-1">
                         <div class="contact-form">
-                            <form id="send-contact-form" action="" method="post">
+                            <form action="" method="post">
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <input type="text" class="field-text"  name="name" placeholder="Name">
@@ -84,8 +85,8 @@ include("includes/header.php") ?>
                                         <textarea cols="30" rows="10" name="message"  class="field-textarea" placeholder="Write what do you want"></textarea>
                                     </div>
                                     <div class="col-sm-6">
-                                         <div class="g-recaptcha" data-sitekey="6Ld3L10aAAAAAPAKJ-94qhAv-m01T2fYZtX73nEO"></div>
-                                        <button type="submit" class="awe-btn awe-btn-13">SEND</button>
+                                        
+                                         <input type="submit" value="Submit" name="submit"  >
                                     </div>
                                 </div>
                                 <div id="contact-content"></div>
