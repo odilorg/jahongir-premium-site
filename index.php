@@ -9,43 +9,30 @@ include("includes/header.php") ?>
                 <ul>
                     <li data-transition="fade">
                         <img src="images/slider/img-5.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
-                        
                         <div class="tp-caption sft fadeout slider-caption-sub slider-caption-1" data-x="center" data-y="100" data-speed="700" data-start="1500" data-easing="easeOutBack">
                          <img src="images/slider/hom1-slide1.png" alt="icons">
                         </div>
-
                         <div class="tp-caption sft fadeout slider-caption-sub slider-caption-1" data-x="center" data-y="80" data-speed="700" data-start="1500" data-easing="easeOutBack">
                          WELCOME TO
                         </div>
-
                         <div class="tp-caption sfb fadeout slider-caption slider-caption-sub-1" data-x="center" data-y="480" data-speed="700" data-easing="easeOutBack"  data-start="2000">HOTEL</div>
-                        
-                       
                     </li> 
-
                     <li data-transition="fade">
                         <img src="images/slider/img-4.jpg" data-bgposition="left center" data-duration="14000" data-bgpositionend="right center" alt="">
-
                         <div class="tp-caption sft fadeout" data-x="center" data-y="325" data-speed="700" data-start="1300" data-easing="easeOutBack">
                           <img src="images/icon-slider-1.png" alt="">
                         </div>
-            
                         <div class="tp-caption sft fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="3400" data-speed="700" data-start="1500" data-easing="easeOutBack">
                            COMFORT
                         </div>
-
                         <div class="tp-caption sfb fadeout slider-caption slider-caption-3" data-x="center" data-y="380" data-speed="700" data-easing="easeOutBack"  data-start="2000">
                             MEETS TRADITIONS
                         </div>
-                        
                         <div class="tp-caption sfb fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="485" data-easing="easeOutBack" data-speed="700" data-start="2200">MODERN AMENITIES</div>
-
                         <div class="tp-caption sfb fadeout slider-caption-sub slider-caption-sub-3" data-x="center" data-y="515" data-easing="easeOutBack" data-speed="700" data-start="2400"><img src="images/icon-slider-2.png" alt=""></div>
                     </li> 
-
                 </ul>
             </div>
-
         </section>
         <!-- END / BANNER SLIDER -->
 
@@ -81,18 +68,15 @@ include("includes/header.php") ?>
                         </div>
                         <div class="col-md-12">
                             <div class="accomd-modations-content owl-single">
-                                
                                 <div class="row">
-
                                     <!-- ITEM -->
                                     <div class="col-xs-4">
                                         <div class="accomd-modations-room">
                                             <div class="img">
-                                                <a href="#"><img src="images/room/img-1.jpg" alt=""></a>
+                                                <a href="room-detail-deluxe-family-room.php"><img src="images/room/img-1.jpg" alt=""></a>
                                             </div>
                                             <div class="text">
-                                                <h2><a href="#">Triple Room</a></h2>
-                                                
+                                                <h2><a href="room-detail-deluxe-family-room.php">Triple Room</a></h2>
                                             </div>
                                         </div>
                                     </div>
@@ -102,10 +86,36 @@ include("includes/header.php") ?>
                                     <div class="col-xs-4">
                                         <div class="accomd-modations-room">
                                             <div class="img">
-                                                <a href="#"><img src="images/room/img-2.jpg" alt=""></a>
+                                                <a href="room-detail-superior-double-room.php"><img src="images/room/img-2.jpg" alt=""></a>
                                             </div>
                                             <div class="text">
-                                                <h2><a href="#">Superior Double Room</a></h2>
+                                                <h2><a href="room-detail-superior-double-room.php">Superior Double Room</a></h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- END / ITEM -->
+                                    
+                                    <!-- ITEM -->
+                                    <div class="col-xs-4">
+                                        <div class="accomd-modations-room">
+                                            <div class="img">
+                                                <a href="room-detail-double-room.php"><img src="images/room/img-3.jpg" alt=""></a>
+                                            </div>
+                                            <div class="text">
+                                                <h2><a href="room-detail-double-room.php">Double/Twin Room</a></h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- END / ITEM -->
+                                    
+                                    <!-- ITEM -->
+                                    <div class="col-xs-4">
+                                        <div class="accomd-modations-room">
+                                            <div class="img">
+                                                <a href="room-detail-deluxe-double-twin-room.php"><img src="images/room/img-4.jpg" alt=""></a>
+                                            </div>
+                                            <div class="text">
+                                                <h2><a href="room-detail-deluxe-double-twin-room.php">Deluxe Double/Twin Room</a></h2>
                                                
                                             </div>
                                         </div>
@@ -116,70 +126,33 @@ include("includes/header.php") ?>
                                     <div class="col-xs-4">
                                         <div class="accomd-modations-room">
                                             <div class="img">
-                                                <a href="#"><img src="images/room/img-3.jpg" alt=""></a>
+                                                <a href="room-detail-deluxe-single-room.php"><img src="images/room/img-5.jpg" alt=""></a>
                                             </div>
                                             <div class="text">
-                                                <h2><a href="#">Double/Twin Room</a></h2>
+                                                <h2><a href="room-detail-deluxe-single-room.php">Deluxe Single Room</a></h2>
                                                 
                                             </div>
                                         </div>
                                     </div>
                                     <!-- END / ITEM -->
-                                    
                                     <!-- ITEM -->
                                     <div class="col-xs-4">
                                         <div class="accomd-modations-room">
                                             <div class="img">
-                                                <a href="#"><img src="images/room/img-4.jpg" alt=""></a>
+                                                <a href="room-detail-standard-queen-room.php"><img src="images/room/img-6.jpg" alt=""></a>
                                             </div>
                                             <div class="text">
-                                                <h2><a href="#">Deluxe Double/Twin Room</a></h2>
-                                               
+                                                <h2><a href="room-detail-standard-queen-room.php">Queen Room</a></h2>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- END / ITEM -->
-                                    
-                                    <!-- ITEM -->
-                                    <div class="col-xs-4">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-5.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Deluxe Single Room</a></h2>
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-                                    
-                                    <!-- ITEM -->
-                                    <div class="col-xs-4">
-                                        <div class="accomd-modations-room">
-                                            <div class="img">
-                                                <a href="#"><img src="images/room/img-6.jpg" alt=""></a>
-                                            </div>
-                                            <div class="text">
-                                                <h2><a href="#">Queen Room</a></h2>
-                                               
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- END / ITEM -->
-
-
                                 </div>
-
-                               
-
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </section>
         <!-- END / ACCOMD ODATIONS -->
 
@@ -198,7 +171,6 @@ include("includes/header.php") ?>
                                 <h2 class="heading">ABOUT US</h2>
                                 <span class="box-border"></span>
                                 <p>Immerse yourself in the warmth of Uzbek hospitality at our family-owned hotel, where tradition meets modern convenience. Built in the iconic Uzbek architectural style, our establishment boasts modern amenities while retaining its cultural charm. Ideally situated within walking distance of renowned historical landmarks such as the legendary Registan Square, we offer guests unparalleled access to the heart of Samarkand's treasures. Experience genuine hospitality and explore the rich history of Uzbekistan from the comfort of our welcoming hotel.</p>
-                                
                             </div>
                         </div>
                     </div>

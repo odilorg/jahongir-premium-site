@@ -16,7 +16,7 @@ $alert = "";
 if (isset($_POST['submit'])){
    
 
-    $secretKey = "6LfV85IpAAAAAKAchCzeJ12MXSYjL3J-oOYDu0ya";
+    $secretKey = "";
 	$responseKey = $_POST['g-recaptcha-response'];
 	$UserIP = $_SERVER['REMOTE_ADDR'];
 	$url = "https://www.google.com/recaptcha/api/siteverify?secret=$secretKey&response=$responseKey&remoteip=$UserIP";
