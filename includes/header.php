@@ -20,6 +20,7 @@
     <link rel="stylesheet" type="text/css" href="css/lib/magnific-popup.css">
     <link rel="stylesheet" type="text/css" href="css/lib/settings.css">
     <link rel="stylesheet" type="text/css" href="css/lib/bootstrap-select.min.css">
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <!-- MAIN STYLE -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!--[if lt IE 9]>

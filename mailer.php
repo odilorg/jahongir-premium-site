@@ -16,20 +16,19 @@ $alert = "";
 if (isset($_POST['submit'])){
    
 
-   // $secretKey = "6Ld3L10aAAAAAHy5Lx0-Zr28iiFncHoND-DK262_";
-	//$responseKey = $_POST['g-recaptcha-response'];
+    $secretKey = "6LfV85IpAAAAAKAchCzeJ12MXSYjL3J-oOYDu0ya";
+	$responseKey = $_POST['g-recaptcha-response'];
 	$UserIP = $_SERVER['REMOTE_ADDR'];
-//	$url = "https://www.google.com/recaptcha/api/siteverify?secret=$secretKey&response=$responseKey&remoteip=$UserIP";
+	$url = "https://www.google.com/recaptcha/api/siteverify?secret=$secretKey&response=$responseKey&remoteip=$UserIP";
 	
-   // $response = file_get_contents($url);
-   $response = true;
+    $response = file_get_contents($url);
+   //$response = true;
     $response = json_decode($response);
    
     
 
-    if ($response) {
-        echo "Hello <br>";
-        echo $_POST['submit'];
+    if ($response->success) {
+      
         $name = $_POST['name'];
         $email = $_POST['email'];
         $subject = $_POST['subject'];
@@ -55,7 +54,7 @@ if (isset($_POST['submit'])){
     // $mail->addCC('cc@example.com');
        
         $mail->isHTML(true);                                  // Set email format to HTML
-        $mail->Subject = "Message from Jahongir hotel website";
+        $mail->Subject = "Message from Jahongir Premium website";
         $mail->Body    = "<h3>Name : $name <br>
                               Email : $email <br>
                               Subject : $subject <br>
@@ -77,7 +76,8 @@ if (isset($_POST['submit'])){
         <span>Invalid captcha. Try again</span>
         </div>';  
     }
-
 }
+
+
 
 

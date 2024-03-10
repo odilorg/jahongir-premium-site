@@ -32,7 +32,7 @@ include("includes/header.php") ?>
                             <ul>
                                 <li><i class="icon lotus-icon-location"></i>11 Chirokchi Street, Uzbekistan</li>
                                 <li><i class="icon lotus-icon-phone"></i> +998 91 313 69 95</li>
-                                <li><i class="icon fa fa-envelope-o"></i> <a href="https://landing.engotheme.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f09c9f848583989f84959cb097">[email&#160;protected]</a>mail.com</li>
+                                <li><i class="icon fa fa-envelope-o"></i> od<!-- abc@def -->ilorg@gm<!-- @abc.com -->ail.com</li>
                             </ul>
                         </div>
 
@@ -40,11 +40,12 @@ include("includes/header.php") ?>
                             <a class="btn-collapse" data-toggle="collapse" href="#location">Jahongir Guest house <span class="fa fa-angle-down"></span></a>
                             <div class="collapse" id="location">
                                 <div class="location-group">
-                                    <h6>Jahongir Guest House</h6>
+                                    <h6><a href="https://jahongirbandb.com"> Jahongir Guest House</a></h6>
                                     <span>4 Chirokchi Street, Samarkand</span>
 
                                     <!-- ITEM -->
-                                    <div class="location-item" data-location="39.65311360207339, 66.97792772872127">
+                                    <a href="https://jahongirbandb.com">
+                                       <div class="location-item" data-location="39.65311360207339, 66.97792772872127">
                                         <div class="img">
                                             <img src="images/contact/img-1.jpg" alt="">
                                             <i class="fa  fa-map-marker"></i>
@@ -56,7 +57,9 @@ include("includes/header.php") ?>
                                                 Fax: +998 66 235 78 99
                                             </p>
                                         </div>
-                                    </div>
+                                    </div> 
+                                    </a>
+                                    
                                     <!-- END / ITEM -->
 
                                    
@@ -66,9 +69,10 @@ include("includes/header.php") ?>
                         </div>
 
                     </div>
-                    <?php echo $alert; ?>
+                   
                     
                     <div class="col-md-6 col-lg-6 col-lg-offset-1">
+                         <?php echo $alert; ?>
                         <div class="contact-form">
                             <form action="" method="post">
                                 <div class="row">
@@ -85,7 +89,7 @@ include("includes/header.php") ?>
                                         <textarea cols="30" rows="10" name="message"  class="field-textarea" placeholder="Write what do you want"></textarea>
                                     </div>
                                     <div class="col-sm-6">
-                                        
+                                        <div class="g-recaptcha" data-sitekey="6LfV85IpAAAAAO8Pyl8rAzLCfSaU3R7B2WANl6TC"></div>
                                          <input type="submit" value="Submit" name="submit"  >
                                     </div>
                                 </div>
